@@ -12,6 +12,7 @@ const normalPerson = {
         this.salary = this.salary - amount;     
     }
 
+    
 }
 //console.log(normalPerson.lastName);
 
