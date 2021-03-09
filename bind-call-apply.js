@@ -1,4 +1,6 @@
 // 25-3:: object use bind to borrow method from another...
+// 25-4:: different between bind,call and apply....
+
 //bind kivabe kaz kore? jokhon ekta object er vetore method ase ,
 // ,amra seita niye kaz korte pari,
 //  ,but ei method/function ke onno ekta object a niye kaz korte chai tokhon bind,call,apply use kori.
