@@ -23,6 +23,7 @@ const normalPerson = {
 
 }
 
+
 const heroPerson = {
     firstName :'hero',
     lastName  : 'alom',
