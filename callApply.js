@@ -1,5 +1,5 @@
 // 25-1:: object method property review .
-// object array er vetore ek ba kathik method/function diya 'this.' use kore object er bahire theke call kore output dekhte pari.
+// object array er vetore ek ba akathik method/function diya 'this.' use kore object er bahire theke call kore output dekhte pari.
 const normalPerson = {
     firstName :'Rohim',
     lastName  : 'Uddin',
